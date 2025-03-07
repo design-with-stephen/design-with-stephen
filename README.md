@@ -35,7 +35,7 @@ or creating stunning graphics, I'm always up for a challenge.
 
 ## 📬 Let's Connect!
 
-📧 **Email:** [Email](stephen211.me@gmail.com)
+📧 **Email:** [stephen211.me@gmail.com]
 🌐 **Portfolio:** [My Portfolio](https://design-with-stephen.github.io/portfolio-website/)
 
 ---

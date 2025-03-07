@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**design-with-stephen/design-with-stephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hey there! I'm Stephen 👋
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm a passionate **Front-End Developer and Graphic Designer** 
+who loves turning ideas into digital experiences. Whether it's designing sleek user interfaces, coding dynamic websites, 
+or creating stunning graphics, I'm always up for a challenge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔥 A Little About Me
+
+- 🎨 **Graphic Design Enthusiast** – I bring ideas to life using Adobe Illustrator, Photoshop, and InDesign.
+- 💻 **Web Developer at Heart** – I specialize in building interactive and user-friendly websites using HTML, CSS, and JavaScript.
+
+---
+
+## 🌟 My Tech Stack & Skills
+
+- **Front-End Development:** HTML, CSS, JavaScript, and bootstrap,
+- **UI/UX Design:** Figma, Adobe XD
+- **Graphic Design:** Photoshop, Illustrator, InDesign
+- **Other Skills:** SQL, MySQl
+
+---
+---
+
+## 📬 Let's Connect!
+
+📧 **Email:** [Email](stephen211.me@gmail.com)
+🌐 **Portfolio:** [My Portfolio]()
+
+---
+
+### ⚡ Fun Fact
+💡 I love Exploring **new technologies**. If you're into tech, design, or just want to chat, let's connect! 🚀
+
+

@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # Hey there! I'm Stephen 👋
 
 Welcome to my GitHub profile! I'm a passionate **Front-End Developer and Graphic Designer** 

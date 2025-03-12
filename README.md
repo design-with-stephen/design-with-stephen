@@ -1,6 +1,6 @@
 # Hey there! I'm Stephen 👋
 
-Welcome to my GitHub profile! I'm a passionate **Front-End Developer and Graphic Designer** 
+Welcome to my GitHub profile! I'm a passionate **Front-End Developer** 
 who loves turning ideas into digital experiences. Whether it's designing sleek user interfaces, coding dynamic websites, 
 or creating stunning graphics, I'm always up for a challenge.
 

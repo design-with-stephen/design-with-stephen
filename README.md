@@ -1,4 +1,4 @@
-# Hey there! I'm Stephen 👋
+# Hey there! I'm Stephen 
 
 I'm a passionate **Front-End Developer** 
 who loves turning ideas into digital experiences. Whether it's designing sleek user interfaces, coding dynamic websites, 
@@ -6,19 +6,18 @@ or creating stunning graphics, I'm always up for a challenge.
 
 ---
 
-## 🔥 A Little About Me
+## A Little About Me
 
-- 🎨 **Graphic Design Enthusiast** – I bring ideas to life using Adobe Illustrator, Photoshop, and InDesign.
-- 💻 **Web Developer at Heart** – I specialize in building interactive and user-friendly websites using HTML, CSS, and JavaScript.
+**Graphic Design Enthusiast** – I bring ideas to life using Adobe Illustrator, Photoshop, and InDesign.
+**Web Developer at Heart** – I specialize in building interactive and user-friendly websites using HTML, CSS, and JavaScript.
 
 ---
 
-## 🌟 My Tech Stack & Skills
-
-- **Front-End Development:** HTML, CSS, JavaScript, and bootstrap,
-- **UI/UX Design:** Figma, Adobe XD
-- **Graphic Design:** Photoshop, Illustrator, InDesign
-- **Other Skills:** SQL, MySQl
+## My Tech Stack & Skills
+**Front-End Development:** HTML, CSS, JavaScript, and bootstrap,
+**UI/UX Design:** Figma, Adobe XD
+**Graphic Design:** Photoshop, Illustrator, InDesign
+**Other Skills:** SQL, MySQl
 
 ---
 <p align="left">
@@ -33,14 +32,14 @@ or creating stunning graphics, I'm always up for a challenge.
 </p>
 ---
 
-## 📬 Let's Connect!
+## Let's Connect!
 
-📧 **Email:** [stephen211.me@gmail.com]
-🌐 **Portfolio:** [My Portfolio](https://design-with-stephen.github.io/portfolio-website/)
+**Email:** [stephen211.me@gmail.com]
+**Portfolio:** [My Portfolio](https://design-with-stephen.github.io/portfolio-website/)
 
 ---
 
-### ⚡ Fun Fact
-💡 I love Exploring **new technologies**. If you're into tech, design, or just want to chat, let's connect! 🚀
+## Fun Fact
+I love Exploring **new technologies**. If you're into tech, design, or just want to chat, let's connect! 🚀
 
 
